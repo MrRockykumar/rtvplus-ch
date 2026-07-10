@@ -1,0 +1,45 @@
+name: Auto Update SonyLiv Events
+
+on:
+  schedule:
+    # Har 30 minutes mein automatic run hone ke liye cron job setup
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Taaki aap manual bhi button daba kar run kar sakein
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Repository ko checkout karein
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # 2. Python environment set up karein
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      # 3. Zaroori libraries install karein
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      # 4. Apni Python script ko run karein
+      - name: Run Update Script
+        run: python update_playlist.py
+
+      # 5. Updated file ko commit aur push karein
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add sonyliv.json
+          # Agar m3u playlist bhi generate kar rahe hain, to usse bhi add karein
+          # git add sonyliv.m3u
+          
+          # Changes check karke commit karein, agar koi change nahi hai to workflow safely exit ho jayega
+          git commit -m "Auto-update SonyLiv playlist" || exit 0
+          git push
