@@ -1,16 +1,33 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:57:41 12-07-2026",
+    "last update time": "13:04:32 12-07-2026",
     "matches": [
         {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090535863,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020177/1782728510796982_UFC_329_Today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "event_category": "Archery",
+            "isLive": true,
+            "contentId": "1090536442_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020459/1783688452604820_ArcheryWC26_MADRID_OPEN_stage4_Recurve_Team_finals_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 329 - McGregor vs Holloway 2"
+            "event_name": "Hyundai Archery World Cup Stage 4",
+            "match_name": "Recurve Team Finals - 12 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Recurve_1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783884871~acl=/*~id=77184158390125156889334252181741~hmac=d1351e39b4b70d85027e849ca4664ddcf758856986f1e26c00c2c61748bfc446",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Recurve_1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783884871~acl=/*~id=77184158390125156889334252181741~hmac=d1351e39b4b70d85027e849ca4664ddcf758856986f1e26c00c2c61748bfc446",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Recurve_1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783884871~acl=/*~id=77184158390125156889334252181741~hmac=d1351e39b4b70d85027e849ca4664ddcf758856986f1e26c00c2c61748bfc446"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090536448_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290170644701_DP_World_Tour_GENESIS_SCOTTISH_Open_day3_24jun_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Genesis Scottish Open - Day 3 - 12 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_DpW1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783884871~acl=/*~id=77184158390125156889334252181741~hmac=d1351e39b4b70d85027e849ca4664ddcf758856986f1e26c00c2c61748bfc446",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_DpW1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783884871~acl=/*~id=77184158390125156889334252181741~hmac=d1351e39b4b70d85027e849ca4664ddcf758856986f1e26c00c2c61748bfc446",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_DpW1207/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783884871~acl=/*~id=77184158390125156889334252181741~hmac=d1351e39b4b70d85027e849ca4664ddcf758856986f1e26c00c2c61748bfc446"
         },
         {
             "event_category": "Sports",
