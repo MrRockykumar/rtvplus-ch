@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:11:16 13-07-2026",
+    "last update time": "23:35:58 13-07-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090536509_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020438/1783630290663637_Eng_W_vs_Ind_W_2026_one_off_test_day4_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Women's Tour of England 2026",
-            "match_name": "Day 4 - One-Off Test - 13 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/cricodi1307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783982475~acl=/*~id=70879694644560361027269626061679~hmac=3dc54b72353665252ea422a2a2e162aa119cd669a683371e90155c5e3f05f336",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/cricodi1307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783982475~acl=/*~id=70879694644560361027269626061679~hmac=3dc54b72353665252ea422a2a2e162aa119cd669a683371e90155c5e3f05f336",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/cricodi1307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783982475~acl=/*~id=70879694644560361027269626061679~hmac=3dc54b72353665252ea422a2a2e162aa119cd669a683371e90155c5e3f05f336"
-        },
         {
             "event_category": "Sports",
             "isLive": false,
