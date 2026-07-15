@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:21:20 15-07-2026",
+    "last update time": "23:14:48 15-07-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090536626_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020590/1784040929501778_Vitality_Blast_2026_QF_Yorkshire_vs_Somerset_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Blast 2026",
+            "match_name": "Yorkshire vs Somerset - Quarter-final - 15 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784180688~acl=/*~id=31936905928724419147099862478383~hmac=7960d683610ac6f822ad81e6136123ad06709326fa420b701dcea1ac5f8a10cc",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784180688~acl=/*~id=31936905928724419147099862478383~hmac=7960d683610ac6f822ad81e6136123ad06709326fa420b701dcea1ac5f8a10cc",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive1507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784180688~acl=/*~id=31936905928724419147099862478383~hmac=7960d683610ac6f822ad81e6136123ad06709326fa420b701dcea1ac5f8a10cc"
+        },
         {
             "event_category": "Sports",
             "isLive": false,
@@ -18,7 +31,7 @@
             "contentId": 1090535477,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020400/1783516631878877_sl_vs_ind_tests_8jul_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
+            "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Sri Lanka"
         },
         {
@@ -38,6 +51,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090536670,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020618/1784128258502495_CWG26_promo_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Glasgow 2026 Commonwealth Games"
         }
     ]
 }
