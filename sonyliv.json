@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:07:17 25-07-2026",
+    "last update time": "01:31:33 26-07-2026",
     "matches": [
         {
             "event_category": "Sports",
@@ -11,10 +11,10 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Day 2 - 25 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d"
+            "match_name": "Day 2 - Swimming - 25 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca"
         },
         {
             "event_category": "Sports",
@@ -24,10 +24,10 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Day 2 - 25 Jul 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2507/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2507/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2507/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d"
+            "match_name": "Day 2 - Swimming - 25 Jul 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2507/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2507/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre2507/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca"
         },
         {
             "event_category": "Sports",
@@ -37,10 +37,10 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Day 2 - 25 Jul 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2507/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2507/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2507/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d"
+            "match_name": "Day 2 - Swimming - 25 Jul 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2507/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2507/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2507/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca"
         },
         {
             "event_category": "Sports",
@@ -50,10 +50,10 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Day 2 - 25 Jul 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre2507/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre2507/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre2507/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d"
+            "match_name": "Day 2 - Swimming - 25 Jul 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre2507/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre2507/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre2507/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca"
         },
         {
             "event_category": "Sports",
@@ -63,75 +63,62 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Day 2 - 25 Jul 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2507/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2507/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2507/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d"
+            "match_name": "Day 2 - Swimming - 25 Jul 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2507/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2507/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre2507/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca"
         },
         {
-            "event_category": "Fight Sports",
+            "event_category": "Aquatics",
             "isLive": true,
-            "contentId": "1090537224_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020945/1784922261862627_UFC_Fight_Night_Ankalaev_vs_Guskov_landscape_thumbnail.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC Fight Night - Ankalaev vs Guskov",
-            "match_name": "UFC Fight Night - Ankalaev vs Guskov - 25 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/UFC_Live2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/UFC_Live2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/UFC_Live2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d"
-        },
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090537177_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474073064996_LIV_Golf_UK_Day3_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "LIV Golf",
-            "match_name": "UK - Day 3 - 25 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_LIV2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_LIV2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_LIV2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d"
-        },
-        {
-            "event_category": "Gymnastics",
-            "isLive": true,
-            "contentId": "1090536387_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021001/1784978952355879_GYMNASTICS_WOMENS_TEAM_live_landscape_thumb.jpg",
+            "contentId": "1090536268_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785009589161_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Women - Gymnastics - 25 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d"
+            "match_name": "Women's 100m Breaststroke - Aquatics - 25 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca"
         },
         {
-            "event_category": "Bowls and Para Bowls",
+            "event_category": "Boxing",
             "isLive": true,
             "contentId": "1090536386_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784993171477_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785005000181_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Ryan Bester vs Shaun James Parnis - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d"
+            "match_name": "Alan Perrie vs Paul Trainor - Men's 80kg - Boxing - 25 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca"
         },
         {
-            "event_category": "Bowls and Para Bowls",
+            "event_category": "Aquatics",
             "isLive": true,
             "contentId": "1090536385_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784993170390_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785004049710_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Scotland vs Falkland Islands - Women's Pairs - Bowls and Para Bowls - 25 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785037034~acl=/*~id=05812706441740330623014738362355~hmac=eba801f34d9a3aee9d39b4b46c7175bd645b2c381ca0c68f9cf9ea3aa944948d"
+            "match_name": "Men's 50m Freestyle - Aquatics - 25 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca"
+        },
+        {
+            "event_category": "Netball",
+            "isLive": true,
+            "contentId": "1090536387_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785009610081_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "South Africa vs Malawi - Netball - Netball - 25 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785052890~acl=/*~id=42586820104920833900207580542824~hmac=bba282d6aba322418aa8edf0d24f8dfb929159f2f8b3126d06faa1ddcdff20ca"
         },
         {
             "event_category": "Cricket",
@@ -146,7 +133,7 @@
             "event_category": "Sports",
             "isLive": false,
             "contentId": 1090536279,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020595/1784056856209283_CWG26_neeraj_spl_15jul_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020395/1783509847315459_Neeraj_Chopra_promo_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Neeraj Chopra at Glasgow 2026 Commonwealth Games"
@@ -164,7 +151,7 @@
             "event_category": "Sports",
             "isLive": false,
             "contentId": 1090536181,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020536/1783933139419971_Commonwealth_Games_2026_GOB_Landscape_Thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020333/1783099190480918_CWG26_dated_promo_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Glasgow 2026 Commonwealth Games"
@@ -191,7 +178,7 @@
             "event_category": "Sports",
             "isLive": false,
             "contentId": 1090536670,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020640/1784202164834799_CWG26_rev_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020618/1784128258502495_CWG26_promo_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Gunning for Gold At Glasgow 2026 Commonwealth Games"
@@ -209,7 +196,7 @@
             "event_category": "Sports",
             "isLive": false,
             "contentId": 1090536900,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020991/1784972587782658_Commonwealth_Games_2026_GOB_Landscape_Thumb_1.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021032/178500714528950_CWG26_promo_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Glasgow 2026 Commonwealth Games"
