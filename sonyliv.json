@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:08:25 28-07-2026",
+    "last update time": "13:14:03 28-07-2026",
     "matches": [
+        {
+            "event_category": "Bowls and Para Bowls",
+            "isLive": true,
+            "contentId": "1090536387_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Bowls And Para Bowls - 28 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785267843~acl=/*~id=62564023431645037113832192043703~hmac=0ad942142798e28a0f51802843f3787ab657effa6b772df3414dae4cfc531c19",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785267843~acl=/*~id=62564023431645037113832192043703~hmac=0ad942142798e28a0f51802843f3787ab657effa6b772df3414dae4cfc531c19",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785267843~acl=/*~id=62564023431645037113832192043703~hmac=0ad942142798e28a0f51802843f3787ab657effa6b772df3414dae4cfc531c19"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -74,15 +87,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Durand Cup 2026"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090536900,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020991/1784972587782658_Commonwealth_Games_2026_GOB_Landscape_Thumb_1.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Glasgow 2026 Commonwealth Games"
         },
         {
             "event_category": "Cricket",
