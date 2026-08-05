@@ -1,13 +1,39 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:39:12 05-08-2026",
+    "last update time": "18:33:27 05-08-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090538625_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707218265385_DC26_India_Army_FT_vs_Baghpat_FC_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "IndianOil Durand Cup 2026",
+            "match_name": "India Army FT vs Baghpat FC - 5 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785978206~acl=/*~id=42818334565239584368785345678476~hmac=c230a4ff1b0fd04a80c5d343c9e7316262695124ae80e555012662ff311865fe",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785978206~acl=/*~id=42818334565239584368785345678476~hmac=c230a4ff1b0fd04a80c5d343c9e7316262695124ae80e555012662ff311865fe",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785978206~acl=/*~id=42818334565239584368785345678476~hmac=c230a4ff1b0fd04a80c5d343c9e7316262695124ae80e555012662ff311865fe"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090538638_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021796/178586061322053_Vitality_Mixed_Disability_1st_T20i_England_vs_India_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Vitality Mixed Disability IT20 series",
+            "match_name": "England vs India - 1st T20I - 5 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Cricket_0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785978206~acl=/*~id=42818334565239584368785345678476~hmac=c230a4ff1b0fd04a80c5d343c9e7316262695124ae80e555012662ff311865fe",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Cricket_0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785978206~acl=/*~id=42818334565239584368785345678476~hmac=c230a4ff1b0fd04a80c5d343c9e7316262695124ae80e555012662ff311865fe",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Cricket_0508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785978206~acl=/*~id=42818334565239584368785345678476~hmac=c230a4ff1b0fd04a80c5d343c9e7316262695124ae80e555012662ff311865fe"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090536992,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021793/1785855057361312_SLvsIND26_1test_10DTG_Promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021806/1785915240452159_INDvsSL_warmpup_dated_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test"
@@ -16,7 +42,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090538649,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021798/1785908433128439_Facup_promo_5aug_landscpae_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021812/178592230632772_Community-Shield-2026_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 1",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Arsenal vs Manchester City - FA Community Shield 2026"
@@ -25,7 +51,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090538616,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021788/1785851912001999_UEFA_supercup_psg_aston_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021805/1785914804405356_UEFA-Super-Cup_DDT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - PSG vs Aston Villa - UEFA Super Cup 2026"
