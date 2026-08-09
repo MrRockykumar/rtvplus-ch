@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:45:50 09-08-2026",
+    "last update time": "18:27:01 09-08-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090538829_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127931146710_SLvsIND_warm_up_match_day3_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 3 - SLC XI vs IND - Warm-Up Match - 9 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786317349~acl=/*~id=47275788074913637112153760546078~hmac=62d8cda6e54e760e9e56ffbff35d877a6abc8acead46be257ea51fd306117d3f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786317349~acl=/*~id=47275788074913637112153760546078~hmac=62d8cda6e54e760e9e56ffbff35d877a6abc8acead46be257ea51fd306117d3f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/criclive0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786317349~acl=/*~id=47275788074913637112153760546078~hmac=62d8cda6e54e760e9e56ffbff35d877a6abc8acead46be257ea51fd306117d3f"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090538834_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708165809385_DC26_Trau_FC_vs_Indian_Navy_FT_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "IndianOil Durand Cup 2026",
-            "match_name": "Trau FC vs Indian Navy FT - 9 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786317349~acl=/*~id=47275788074913637112153760546078~hmac=62d8cda6e54e760e9e56ffbff35d877a6abc8acead46be257ea51fd306117d3f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786317349~acl=/*~id=47275788074913637112153760546078~hmac=62d8cda6e54e760e9e56ffbff35d877a6abc8acead46be257ea51fd306117d3f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football0908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786317349~acl=/*~id=47275788074913637112153760546078~hmac=62d8cda6e54e760e9e56ffbff35d877a6abc8acead46be257ea51fd306117d3f"
-        },
         {
             "event_category": "Football",
             "isLive": false,
