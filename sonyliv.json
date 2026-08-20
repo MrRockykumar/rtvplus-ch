@@ -1,30 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:01:25 20-08-2026",
+    "last update time": "00:12:22 21-08-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090539798_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714229833818_eng_vs_pak_live_1Test_day2_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Pakistan Tour of England 2026",
-            "match_name": "Day 2 - 1st Test - 20 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787290284~acl=/*~id=86929964652898570891405461598799~hmac=431d1d4c0c2805043a83469daf3a94c82997a587deebb93a0d2ea969ca727637",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787290284~acl=/*~id=86929964652898570891405461598799~hmac=431d1d4c0c2805043a83469daf3a94c82997a587deebb93a0d2ea969ca727637",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787290284~acl=/*~id=86929964652898570891405461598799~hmac=431d1d4c0c2805043a83469daf3a94c82997a587deebb93a0d2ea969ca727637"
-        },
         {
             "event_category": "Golf",
             "isLive": true,
-            "contentId": 1090539824,
+            "contentId": "1090539824_ENG",
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702519612697_LIV_Golf_Indianapolis_day1_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "LIV Golf",
-            "match_name": "Indianapolis - Day 1 - 20 Aug 2026"
+            "match_name": "Indianapolis - Day 1 - 20 Aug 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787294542~acl=/*~id=56227834502323984712183661299355~hmac=4e980408b648a838fb168713174bf3716e1b19d25bb4f33851191b0adeaa84ce",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787294542~acl=/*~id=56227834502323984712183661299355~hmac=4e980408b648a838fb168713174bf3716e1b19d25bb4f33851191b0adeaa84ce",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787294542~acl=/*~id=56227834502323984712183661299355~hmac=4e980408b648a838fb168713174bf3716e1b19d25bb4f33851191b0adeaa84ce"
         },
         {
             "event_category": "Cricket",
@@ -43,6 +33,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - ACC Women's Asia Cup 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090539152,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
         },
         {
             "event_category": "Cricket",
@@ -106,15 +105,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Durand Cup 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090539152,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
         }
     ]
 }
