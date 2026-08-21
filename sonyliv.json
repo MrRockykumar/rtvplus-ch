@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:08:10 21-08-2026",
+    "last update time": "22:58:47 21-08-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "LIV Golf",
             "match_name": "Indianapolis - Day 2 - 21 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787373490~acl=/*~id=44228750891321598665829015579736~hmac=c9ea44d4a270a7b9cf94011978075383273817a504f9b89902de0189a40b2470",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787373490~acl=/*~id=44228750891321598665829015579736~hmac=c9ea44d4a270a7b9cf94011978075383273817a504f9b89902de0189a40b2470",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787373490~acl=/*~id=44228750891321598665829015579736~hmac=c9ea44d4a270a7b9cf94011978075383273817a504f9b89902de0189a40b2470"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/LIV_Golf2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787376527~acl=/*~id=57363664401223680876112602191105~hmac=41a58448cb9db8ba565f4757204b8758641826fba281b72b22e42806b302d636",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/LIV_Golf2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787376527~acl=/*~id=57363664401223680876112602191105~hmac=41a58448cb9db8ba565f4757204b8758641826fba281b72b22e42806b302d636",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/LIV_Golf2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787376527~acl=/*~id=57363664401223680876112602191105~hmac=41a58448cb9db8ba565f4757204b8758641826fba281b72b22e42806b302d636"
         },
         {
             "event_category": "Cricket",
