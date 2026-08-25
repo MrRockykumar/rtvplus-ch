@@ -1,73 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:23:25 25-08-2026",
+    "last update time": "18:24:09 25-08-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540240_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 3 - 2nd Test - 25 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787702003~acl=/*~id=43612477187208225181718825356483~hmac=43c65fd555d18df764b1b096d2c39ad8b8bd0ef44a9f591f901ae8ff69b98269",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787702003~acl=/*~id=43612477187208225181718825356483~hmac=43c65fd555d18df764b1b096d2c39ad8b8bd0ef44a9f591f901ae8ff69b98269",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787702003~acl=/*~id=43612477187208225181718825356483~hmac=43c65fd555d18df764b1b096d2c39ad8b8bd0ef44a9f591f901ae8ff69b98269"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540240_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 3 - 2nd Test - 25 Aug 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787702003~acl=/*~id=43612477187208225181718825356483~hmac=43c65fd555d18df764b1b096d2c39ad8b8bd0ef44a9f591f901ae8ff69b98269",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787702003~acl=/*~id=43612477187208225181718825356483~hmac=43c65fd555d18df764b1b096d2c39ad8b8bd0ef44a9f591f901ae8ff69b98269",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2508/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787702003~acl=/*~id=43612477187208225181718825356483~hmac=43c65fd555d18df764b1b096d2c39ad8b8bd0ef44a9f591f901ae8ff69b98269"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540240_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 3 - 2nd Test - 25 Aug 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787702003~acl=/*~id=43612477187208225181718825356483~hmac=43c65fd555d18df764b1b096d2c39ad8b8bd0ef44a9f591f901ae8ff69b98269",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787702003~acl=/*~id=43612477187208225181718825356483~hmac=43c65fd555d18df764b1b096d2c39ad8b8bd0ef44a9f591f901ae8ff69b98269",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2508/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787702003~acl=/*~id=43612477187208225181718825356483~hmac=43c65fd555d18df764b1b096d2c39ad8b8bd0ef44a9f591f901ae8ff69b98269"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540240_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 3 - 2nd Test - 25 Aug 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787702003~acl=/*~id=43612477187208225181718825356483~hmac=43c65fd555d18df764b1b096d2c39ad8b8bd0ef44a9f591f901ae8ff69b98269",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787702003~acl=/*~id=43612477187208225181718825356483~hmac=43c65fd555d18df764b1b096d2c39ad8b8bd0ef44a9f591f901ae8ff69b98269",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2508/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787702003~acl=/*~id=43612477187208225181718825356483~hmac=43c65fd555d18df764b1b096d2c39ad8b8bd0ef44a9f591f901ae8ff69b98269"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540240_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315014528_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 3 - 2nd Test - 25 Aug 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787702003~acl=/*~id=43612477187208225181718825356483~hmac=43c65fd555d18df764b1b096d2c39ad8b8bd0ef44a9f591f901ae8ff69b98269",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787702003~acl=/*~id=43612477187208225181718825356483~hmac=43c65fd555d18df764b1b096d2c39ad8b8bd0ef44a9f591f901ae8ff69b98269",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2508/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787702003~acl=/*~id=43612477187208225181718825356483~hmac=43c65fd555d18df764b1b096d2c39ad8b8bd0ef44a9f591f901ae8ff69b98269"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -77,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
             "match_name": "Pune Peshwas vs Chennai Strikers - 25 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787702003~acl=/*~id=43612477187208225181718825356483~hmac=43c65fd555d18df764b1b096d2c39ad8b8bd0ef44a9f591f901ae8ff69b98269",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787702003~acl=/*~id=43612477187208225181718825356483~hmac=43c65fd555d18df764b1b096d2c39ad8b8bd0ef44a9f591f901ae8ff69b98269",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787702003~acl=/*~id=43612477187208225181718825356483~hmac=43c65fd555d18df764b1b096d2c39ad8b8bd0ef44a9f591f901ae8ff69b98269"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787705648~acl=/*~id=28541498755113988748867366979340~hmac=a638a181635cd2870f28aa421f20338a4ffaff836798832691c45fee6d3ba69a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787705648~acl=/*~id=28541498755113988748867366979340~hmac=a638a181635cd2870f28aa421f20338a4ffaff836798832691c45fee6d3ba69a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787705648~acl=/*~id=28541498755113988748867366979340~hmac=a638a181635cd2870f28aa421f20338a4ffaff836798832691c45fee6d3ba69a"
         },
         {
             "event_category": "Cricket",
