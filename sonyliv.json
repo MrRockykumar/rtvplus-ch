@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:24:09 25-08-2026",
+    "last update time": "19:24:49 25-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
             "match_name": "Pune Peshwas vs Chennai Strikers - 25 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787705648~acl=/*~id=28541498755113988748867366979340~hmac=a638a181635cd2870f28aa421f20338a4ffaff836798832691c45fee6d3ba69a",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787705648~acl=/*~id=28541498755113988748867366979340~hmac=a638a181635cd2870f28aa421f20338a4ffaff836798832691c45fee6d3ba69a",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787705648~acl=/*~id=28541498755113988748867366979340~hmac=a638a181635cd2870f28aa421f20338a4ffaff836798832691c45fee6d3ba69a"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787709289~acl=/*~id=65861293817525494858305304580710~hmac=06d26ce387645b574c8cda4979a343abfe9a2272c6b5176fe7ec2b1cd30d07b6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787709289~acl=/*~id=65861293817525494858305304580710~hmac=06d26ce387645b574c8cda4979a343abfe9a2272c6b5176fe7ec2b1cd30d07b6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787709289~acl=/*~id=65861293817525494858305304580710~hmac=06d26ce387645b574c8cda4979a343abfe9a2272c6b5176fe7ec2b1cd30d07b6"
         },
         {
             "event_category": "Cricket",
