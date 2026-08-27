@@ -1,98 +1,16 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:30:53 27-08-2026",
+    "last update time": "02:30:46 28-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540490_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022944/1787736105819960_SL_vs_IND_2nd_Test_Day5_live_landscape_thumb.jpg",
+            "isLive": false,
+            "contentId": 1090538884,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023063/1787843485769542_asia_cup_w26_tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540490_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022944/1787736105819960_SL_vs_IND_2nd_Test_Day5_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2708/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2708/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2708/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540490_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022944/1787736105819960_SL_vs_IND_2nd_Test_Day5_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2708/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2708/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2708/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540490_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022944/1787736105819960_SL_vs_IND_2nd_Test_Day5_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2708/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2708/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2708/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540490_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022944/1787736105819960_SL_vs_IND_2nd_Test_Day5_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "India Tour of Sri Lanka 2026",
-            "match_name": "Day 5 - 2nd Test - 27 Aug 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2708/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2708/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2708/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540508_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022949/1787736861949236_ENGvsPAK_2nd_test_day1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Pakistan Tour of England 2026",
-            "match_name": "Day 1 - 2nd Test - 27 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/England_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/England_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/England_2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540510_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664003218164_JPL_26_Gujarat-Gladiators-vs-Indore-Hawks_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "JITO Premier League 2026",
-            "match_name": "Mumbai Kings XI vs Chennai Striker Kings - 27 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787871646~acl=/*~id=49896182147220324449886714497804~hmac=24fedb68d703e94016710e7639bc1c896b0db8733999bdf7cc678853929649a3"
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - ACC Women's Asia Cup 2026"
         },
         {
             "event_category": "Cricket",
@@ -124,20 +42,20 @@
         {
             "event_category": "Cricket",
             "isLive": false,
+            "contentId": 1090540517,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023030/1787829847712428_womens_AC26_india_vs_thailand_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Thailand | Women's Asia Cup 2026 | 30 Aug 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
             "contentId": 1090539554,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022509/1787129959036804_England_vs_Pakistan_2026_GOB_Landscape_Thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Pakistan Tour of England 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090538884,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022418/178704318120860_asia_cup_w26_dated_rev_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - ACC Women's Asia Cup 2026"
         },
         {
             "event_category": "Sports",
@@ -187,29 +105,11 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090539234,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022185/1786698001324453_nz_Vs_ind_promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Team India's Cricket Tours"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
             "contentId": 1090539152,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090540517,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023013/1787817588284836_AC26_indiaw_vs_thailandw_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Thailand | Women's Asia Cup 2026 | 30 Aug 2026"
         }
     ]
 }
