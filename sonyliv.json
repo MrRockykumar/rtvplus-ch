@@ -1,38 +1,16 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:56:12 28-08-2026",
+    "last update time": "23:49:17 28-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540652_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023004/1787809857848573_JPL_26_Pagariya-Strikers-vs-Mumbai-Sobo-Stars_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "JITO Premier League 2026",
-            "match_name": "Pagariya Strikers vs Mumbai Sobo Stars - 28 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787937971~acl=/*~id=06921238092493099088409132030515~hmac=5615bf7f2756d92008669399562abb9533c4b121696d1a0a7454ead3aa1ac5bc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787937971~acl=/*~id=06921238092493099088409132030515~hmac=5615bf7f2756d92008669399562abb9533c4b121696d1a0a7454ead3aa1ac5bc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787937971~acl=/*~id=06921238092493099088409132030515~hmac=5615bf7f2756d92008669399562abb9533c4b121696d1a0a7454ead3aa1ac5bc"
-        },
-        {
-            "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090538884,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023063/1787843485769542_asia_cup_w26_tonight_landscape_thumb.jpg",
+            "contentId": 1090540517,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023092/1787902128351300_womens_AsiaCup26_india_vs_Thailand_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - ACC Women's Asia Cup 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090540021,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022658/1787312709559403_AsiaCup26_Harmanpreet_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - ACC Women's Asia Cup 2026"
+            "event_name": "Upcoming - India vs Thailand | Women's Asia Cup 2026 | 30 Aug 2026"
         },
         {
             "event_category": "Cricket",
@@ -46,20 +24,20 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090540064,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022603/1787230188057421_womens_AC26_IND_vs_PAK_dated_landscape_thumb.jpg",
+            "contentId": 1090538884,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023119/1787925501330343_Asia_Cup_Womens_2026_sri_lanka_vs_UAE_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - ACC Women's Asia Cup 2026"
+            "event_name": "Upcoming - DP World Women's Asia Cup 2026"
         },
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090540517,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023030/1787829847712428_womens_AC26_india_vs_thailand_dated_landscape_thumb.jpg",
+            "contentId": 1090540064,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023104/1787914224074953_womens_AsiaCup26_india_vs_pakistan_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Thailand | Women's Asia Cup 2026 | 30 Aug 2026"
+            "event_name": "Upcoming - DP World Women's Asia Cup 2026"
         },
         {
             "event_category": "Cricket",
@@ -87,6 +65,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Manchester United - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090540021,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023108/1787918480899334_AsiaCup26_Harmanpreet_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - DP World Women's Asia Cup 2026"
         },
         {
             "event_category": "Sports",
