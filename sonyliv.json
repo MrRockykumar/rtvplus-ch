@@ -1,52 +1,13 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:49:43 31-08-2026",
+    "last update time": "23:36:08 31-08-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540967_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023239/1788173572913893_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_rev_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Sher-E-Punjab T20 League",
-            "match_name": "Jalandhar Warriors vs Fazilka Falcons - 31 Aug 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788218381~acl=/*~id=65821078148896045393477389726881~hmac=59c8b74c56e2e4a19f5ad2e63c91cdb9e4ea2eabd7924c955bdb381b36454b39",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788218381~acl=/*~id=65821078148896045393477389726881~hmac=59c8b74c56e2e4a19f5ad2e63c91cdb9e4ea2eabd7924c955bdb381b36454b39",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788218381~acl=/*~id=65821078148896045393477389726881~hmac=59c8b74c56e2e4a19f5ad2e63c91cdb9e4ea2eabd7924c955bdb381b36454b39"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540967_PAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023239/1788173572913893_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_rev_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Sher-E-Punjab T20 League",
-            "match_name": "Jalandhar Warriors vs Fazilka Falcons - 31 Aug 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788218381~acl=/*~id=65821078148896045393477389726881~hmac=59c8b74c56e2e4a19f5ad2e63c91cdb9e4ea2eabd7924c955bdb381b36454b39",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788218381~acl=/*~id=65821078148896045393477389726881~hmac=59c8b74c56e2e4a19f5ad2e63c91cdb9e4ea2eabd7924c955bdb381b36454b39",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788218381~acl=/*~id=65821078148896045393477389726881~hmac=59c8b74c56e2e4a19f5ad2e63c91cdb9e4ea2eabd7924c955bdb381b36454b39"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090540966_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817583100770_JPL_26_Mumbai-Kings-Xl-vs-Bengal-Indians_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "JITO Premier League 2026",
-            "match_name": "Mumbai Kings XI vs Bengal Indians - 31 Aug 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788218381~acl=/*~id=65821078148896045393477389726881~hmac=59c8b74c56e2e4a19f5ad2e63c91cdb9e4ea2eabd7924c955bdb381b36454b39",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788218381~acl=/*~id=65821078148896045393477389726881~hmac=59c8b74c56e2e4a19f5ad2e63c91cdb9e4ea2eabd7924c955bdb381b36454b39",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788218381~acl=/*~id=65821078148896045393477389726881~hmac=59c8b74c56e2e4a19f5ad2e63c91cdb9e4ea2eabd7924c955bdb381b36454b39"
-        },
-        {
-            "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090538884,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022390/178698244305456_Asia_Cup_Womens_2026_GOB_Landscape_Thumb.jpg",
+            "contentId": 1090541101,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023166/1788020751666199_AsiaCup26_India_vs_HongKong_Promo_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Women's Asia Cup 2026"
@@ -77,6 +38,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Pakistan Tour of England 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090538884,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022390/178698244305456_Asia_Cup_Womens_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - DP World Women's Asia Cup 2026"
         },
         {
             "event_category": "Sports",
