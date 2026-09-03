@@ -1,20 +1,46 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:38:44 03-09-2026",
+    "last update time": "14:32:30 03-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
+            "contentId": "1090541268_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788350606714870_PT20_Bathinda-Royals-vs-Jalandhar-Warriors_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788469348~acl=/*~id=96667659821326444926061043642000~hmac=b177b9e23cbd85f8ddc11d92f8ee6744fb5776cbf963b3dacfbfdea845bf2b17",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788469348~acl=/*~id=96667659821326444926061043642000~hmac=b177b9e23cbd85f8ddc11d92f8ee6744fb5776cbf963b3dacfbfdea845bf2b17",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788469348~acl=/*~id=96667659821326444926061043642000~hmac=b177b9e23cbd85f8ddc11d92f8ee6744fb5776cbf963b3dacfbfdea845bf2b17"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541268_PAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788350606714870_PT20_Bathinda-Royals-vs-Jalandhar-Warriors_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Sher-E-Punjab T20 League",
+            "match_name": "Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [PAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788469348~acl=/*~id=96667659821326444926061043642000~hmac=b177b9e23cbd85f8ddc11d92f8ee6744fb5776cbf963b3dacfbfdea845bf2b17",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788469348~acl=/*~id=96667659821326444926061043642000~hmac=b177b9e23cbd85f8ddc11d92f8ee6744fb5776cbf963b3dacfbfdea845bf2b17",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788469348~acl=/*~id=96667659821326444926061043642000~hmac=b177b9e23cbd85f8ddc11d92f8ee6744fb5776cbf963b3dacfbfdea845bf2b17"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
             "contentId": "1090541267_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256517874994_JPL_26_Bangalore-Blasters-vs-Rajasthan-Rajvansh_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256657160994_JPL_26_Golden-Eagles-Delhi-vs-Mumbai-Sobo-Stars_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "JITO Premier League 2026",
-            "match_name": "Bangalore Blasters vs Rajasthan Rajvansh - 3 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788451723~acl=/*~id=09259972406910149648834110007127~hmac=6a94763a5f1bcab73b03374fb426871a010bd888f3d5433adb2651b6b9839962",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788451723~acl=/*~id=09259972406910149648834110007127~hmac=6a94763a5f1bcab73b03374fb426871a010bd888f3d5433adb2651b6b9839962",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788451723~acl=/*~id=09259972406910149648834110007127~hmac=6a94763a5f1bcab73b03374fb426871a010bd888f3d5433adb2651b6b9839962"
+            "match_name": "Golden Eagles Delhi vs Mumbai Sobo Stars - 3 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788469348~acl=/*~id=96667659821326444926061043642000~hmac=b177b9e23cbd85f8ddc11d92f8ee6744fb5776cbf963b3dacfbfdea845bf2b17",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788469348~acl=/*~id=96667659821326444926061043642000~hmac=b177b9e23cbd85f8ddc11d92f8ee6744fb5776cbf963b3dacfbfdea845bf2b17",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788469348~acl=/*~id=96667659821326444926061043642000~hmac=b177b9e23cbd85f8ddc11d92f8ee6744fb5776cbf963b3dacfbfdea845bf2b17"
         },
         {
             "event_category": "Cricket",
@@ -123,6 +149,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090541319,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835793245835_AWC_Promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090541320,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835785489135_Sunil_grover_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour of New Zealand "
         }
     ]
 }
