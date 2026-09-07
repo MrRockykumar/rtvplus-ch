@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:51:32 07-09-2026",
+    "last update time": "23:45:55 07-09-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090541606_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023603/178876680905358_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Sher-E-Punjab T20 League",
-            "match_name": "Fazilka Falcons vs Amritsar Soormas - 7 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788830491~acl=/*~id=27910151465995576851111223362761~hmac=623e83e4fb49938fc6fd40c81c97507a04486963afc50ab4d684c3d5873711b7",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788830491~acl=/*~id=27910151465995576851111223362761~hmac=623e83e4fb49938fc6fd40c81c97507a04486963afc50ab4d684c3d5873711b7",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788830491~acl=/*~id=27910151465995576851111223362761~hmac=623e83e4fb49938fc6fd40c81c97507a04486963afc50ab4d684c3d5873711b7"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090541606_PAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023603/178876680905358_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Sher-E-Punjab T20 League",
-            "match_name": "Fazilka Falcons vs Amritsar Soormas - 7 Sep 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788830491~acl=/*~id=27910151465995576851111223362761~hmac=623e83e4fb49938fc6fd40c81c97507a04486963afc50ab4d684c3d5873711b7",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788830491~acl=/*~id=27910151465995576851111223362761~hmac=623e83e4fb49938fc6fd40c81c97507a04486963afc50ab4d684c3d5873711b7",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788830491~acl=/*~id=27910151465995576851111223362761~hmac=623e83e4fb49938fc6fd40c81c97507a04486963afc50ab4d684c3d5873711b7"
-        },
         {
             "event_category": "Football",
             "isLive": false,
