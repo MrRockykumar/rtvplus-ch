@@ -1,59 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:42:48 12-09-2026",
+    "last update time": "01:04:15 13-09-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090542233_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Sher-E-Punjab T20 League 2026",
-            "match_name": "Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789276366~acl=/*~id=58943666518420373894910809525681~hmac=c4c7b112bab6d74da5c3476d7f236f8bc6586cad6b561d98bf2a80ed7ab23ca2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789276366~acl=/*~id=58943666518420373894910809525681~hmac=c4c7b112bab6d74da5c3476d7f236f8bc6586cad6b561d98bf2a80ed7ab23ca2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789276366~acl=/*~id=58943666518420373894910809525681~hmac=c4c7b112bab6d74da5c3476d7f236f8bc6586cad6b561d98bf2a80ed7ab23ca2"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090542233_PAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Sher-E-Punjab T20 League 2026",
-            "match_name": "Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [PAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789276366~acl=/*~id=58943666518420373894910809525681~hmac=c4c7b112bab6d74da5c3476d7f236f8bc6586cad6b561d98bf2a80ed7ab23ca2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789276366~acl=/*~id=58943666518420373894910809525681~hmac=c4c7b112bab6d74da5c3476d7f236f8bc6586cad6b561d98bf2a80ed7ab23ca2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789276366~acl=/*~id=58943666518420373894910809525681~hmac=c4c7b112bab6d74da5c3476d7f236f8bc6586cad6b561d98bf2a80ed7ab23ca2"
-        },
         {
             "event_category": "Archery",
             "isLive": true,
             "contentId": "1090542276_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789800024248_Hyundai-Archery-World-Cup-Final_Compound-Men-Elite-QFs-to-Finals_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789770953248_Hyundai-Archery-World-Cup-Final_Compound-Women-Elite-QFs-to-Finals_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Hyundai Archery World Cup Final",
-            "match_name": "Compound Men Elite QFs to Finals - 12 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789276366~acl=/*~id=58943666518420373894910809525681~hmac=c4c7b112bab6d74da5c3476d7f236f8bc6586cad6b561d98bf2a80ed7ab23ca2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789276366~acl=/*~id=58943666518420373894910809525681~hmac=c4c7b112bab6d74da5c3476d7f236f8bc6586cad6b561d98bf2a80ed7ab23ca2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789276366~acl=/*~id=58943666518420373894910809525681~hmac=c4c7b112bab6d74da5c3476d7f236f8bc6586cad6b561d98bf2a80ed7ab23ca2"
-        },
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090542235_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419126658889_DP_World_Tour_Amgen_Irish_Open_day3_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "Amgen Irish Open - Day 3 - 12 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789276366~acl=/*~id=58943666518420373894910809525681~hmac=c4c7b112bab6d74da5c3476d7f236f8bc6586cad6b561d98bf2a80ed7ab23ca2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789276366~acl=/*~id=58943666518420373894910809525681~hmac=c4c7b112bab6d74da5c3476d7f236f8bc6586cad6b561d98bf2a80ed7ab23ca2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789276366~acl=/*~id=58943666518420373894910809525681~hmac=c4c7b112bab6d74da5c3476d7f236f8bc6586cad6b561d98bf2a80ed7ab23ca2"
+            "match_name": " Compound Women Elite QFs to Finals - 13 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789284855~acl=/*~id=30495403210031567650879671754280~hmac=6138baf207611a4a2e99f0bad0f8022e81fa923a6b8ffd11a2df77d817177428",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789284855~acl=/*~id=30495403210031567650879671754280~hmac=6138baf207611a4a2e99f0bad0f8022e81fa923a6b8ffd11a2df77d817177428",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789284855~acl=/*~id=30495403210031567650879671754280~hmac=6138baf207611a4a2e99f0bad0f8022e81fa923a6b8ffd11a2df77d817177428"
         },
         {
             "event_category": "Cricket",
