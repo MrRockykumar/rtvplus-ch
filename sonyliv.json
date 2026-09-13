@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:29:34 14-09-2026",
+    "last update time": "04:50:53 14-09-2026",
     "matches": [
         {
             "event_category": "Archery",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Hyundai Archery World Cup Final",
             "match_name": "Recurve Women Elite QFs to Finals - 14 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789376374~acl=/*~id=67497758943729534431261139271558~hmac=6675ac0e2bc91130c8e20f46c364184243cd6c988d01af571511a36dd67661dc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789376374~acl=/*~id=67497758943729534431261139271558~hmac=6675ac0e2bc91130c8e20f46c364184243cd6c988d01af571511a36dd67661dc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789376374~acl=/*~id=67497758943729534431261139271558~hmac=6675ac0e2bc91130c8e20f46c364184243cd6c988d01af571511a36dd67661dc"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789384852~acl=/*~id=27724088040496908734803241127191~hmac=4c273e194cce136e92023ae0c2ffaa5ecdbbc23cf79f5bd5409685791823ad06",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789384852~acl=/*~id=27724088040496908734803241127191~hmac=4c273e194cce136e92023ae0c2ffaa5ecdbbc23cf79f5bd5409685791823ad06",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789384852~acl=/*~id=27724088040496908734803241127191~hmac=4c273e194cce136e92023ae0c2ffaa5ecdbbc23cf79f5bd5409685791823ad06"
         },
         {
             "event_category": "Sports",
