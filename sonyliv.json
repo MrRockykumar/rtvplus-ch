@@ -1,42 +1,25 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:46:21 16-09-2026",
+    "last update time": "02:59:24 17-09-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090542525_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023482/1788516374836313_UEL2627_Omonia_vs_Celta_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2026-27",
-            "match_name": "Omonia vs Celta - MD1 - 16 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789625780~acl=/*~id=31236919762628718593219046959936~hmac=a8e020ed6f4e9873240a61eeca700c7318494779cc2877507d26f58a5746c89f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789625780~acl=/*~id=31236919762628718593219046959936~hmac=a8e020ed6f4e9873240a61eeca700c7318494779cc2877507d26f58a5746c89f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789625780~acl=/*~id=31236919762628718593219046959936~hmac=a8e020ed6f4e9873240a61eeca700c7318494779cc2877507d26f58a5746c89f"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090542536_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788525626109688_UEL2627_MD1_Ararat_Armenia_vs_Sparta_Praha_4sep_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2026-27",
-            "match_name": "Ararat-Armenia vs Sparta Praha - MD1 - 16 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789625780~acl=/*~id=31236919762628718593219046959936~hmac=a8e020ed6f4e9873240a61eeca700c7318494779cc2877507d26f58a5746c89f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789625780~acl=/*~id=31236919762628718593219046959936~hmac=a8e020ed6f4e9873240a61eeca700c7318494779cc2877507d26f58a5746c89f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789625780~acl=/*~id=31236919762628718593219046959936~hmac=a8e020ed6f4e9873240a61eeca700c7318494779cc2877507d26f58a5746c89f"
-        },
         {
             "event_category": "Sports",
             "isLive": false,
             "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024044/1789575257227717_AG26_QF_bangladesh_vs_china_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024044/1789575266224717_AG26_QF_bangladesh_vs_china_today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090542750,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024037/1789570963657146_Asian_Game_26__IND_vs_JPN_DDT_Promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - India vs Japan"
         },
         {
             "event_category": "Sports",
@@ -46,15 +29,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090542538,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023985/1789476929461402_UEL26_AC_Milan_vs_Benfica_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 1 - UEFA Europa League 2026-27"
         },
         {
             "event_category": "Football",
@@ -73,6 +47,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Sri Lanka Tour of England 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090542538,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023985/1789476929461402_UEL26_AC_Milan_vs_Benfica_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 1 - UEFA Europa League 2026-27"
         },
         {
             "event_category": "Cricket",
