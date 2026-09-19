@@ -1,8 +1,73 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "09:30:19 19-09-2026",
+    "last update time": "14:23:16 19-09-2026",
     "matches": [
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090541377_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024184/1789798231834654_AG26_Opening_Ceremony_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Opening Ceremony - 19 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AsianGam1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789851195~acl=/*~id=17441740124714309129903724877437~hmac=f61fae03fc6c19c5c433ec6208a5b8e91ac9aebb96239f38319ac5093fbcc818",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AsianGam1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789851195~acl=/*~id=17441740124714309129903724877437~hmac=f61fae03fc6c19c5c433ec6208a5b8e91ac9aebb96239f38319ac5093fbcc818",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AsianGam1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789851195~acl=/*~id=17441740124714309129903724877437~hmac=f61fae03fc6c19c5c433ec6208a5b8e91ac9aebb96239f38319ac5093fbcc818"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090541377_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024184/1789798231834654_AG26_Opening_Ceremony_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Opening Ceremony - 19 Sep 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AsianGam1909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789851195~acl=/*~id=17441740124714309129903724877437~hmac=f61fae03fc6c19c5c433ec6208a5b8e91ac9aebb96239f38319ac5093fbcc818",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AsianGam1909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789851195~acl=/*~id=17441740124714309129903724877437~hmac=f61fae03fc6c19c5c433ec6208a5b8e91ac9aebb96239f38319ac5093fbcc818",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AsianGam1909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789851195~acl=/*~id=17441740124714309129903724877437~hmac=f61fae03fc6c19c5c433ec6208a5b8e91ac9aebb96239f38319ac5093fbcc818"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090541377_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024184/1789798231834654_AG26_Opening_Ceremony_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Opening Ceremony - 19 Sep 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AsianGam1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789851195~acl=/*~id=17441740124714309129903724877437~hmac=f61fae03fc6c19c5c433ec6208a5b8e91ac9aebb96239f38319ac5093fbcc818",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AsianGam1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789851195~acl=/*~id=17441740124714309129903724877437~hmac=f61fae03fc6c19c5c433ec6208a5b8e91ac9aebb96239f38319ac5093fbcc818",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AsianGam1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789851195~acl=/*~id=17441740124714309129903724877437~hmac=f61fae03fc6c19c5c433ec6208a5b8e91ac9aebb96239f38319ac5093fbcc818"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090541377_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024184/1789798231834654_AG26_Opening_Ceremony_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Opening Ceremony - 19 Sep 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AsianGam1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789851195~acl=/*~id=17441740124714309129903724877437~hmac=f61fae03fc6c19c5c433ec6208a5b8e91ac9aebb96239f38319ac5093fbcc818",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AsianGam1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789851195~acl=/*~id=17441740124714309129903724877437~hmac=f61fae03fc6c19c5c433ec6208a5b8e91ac9aebb96239f38319ac5093fbcc818",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AsianGam1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789851195~acl=/*~id=17441740124714309129903724877437~hmac=f61fae03fc6c19c5c433ec6208a5b8e91ac9aebb96239f38319ac5093fbcc818"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": true,
+            "contentId": "1090541377_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024184/1789798231834654_AG26_Opening_Ceremony_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Opening Ceremony - 19 Sep 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AsianGam1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789851195~acl=/*~id=17441740124714309129903724877437~hmac=f61fae03fc6c19c5c433ec6208a5b8e91ac9aebb96239f38319ac5093fbcc818",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AsianGam1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789851195~acl=/*~id=17441740124714309129903724877437~hmac=f61fae03fc6c19c5c433ec6208a5b8e91ac9aebb96239f38319ac5093fbcc818",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AsianGam1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789851195~acl=/*~id=17441740124714309129903724877437~hmac=f61fae03fc6c19c5c433ec6208a5b8e91ac9aebb96239f38319ac5093fbcc818"
+        },
         {
             "event_category": "Sports",
             "isLive": false,
@@ -10,7 +75,7 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024176/1789769640462343_AG26_womens_SF_india_vs_bangladesh_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - Bangladesh vs India"
+            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - India vs Bangladesh"
         },
         {
             "event_category": "Fight Sports",
@@ -34,7 +99,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090541822,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024091/1789657417833286_ENGvsSL26_3t20i_dated_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024091/1789657412351285_ENGvsSL26_3t20i_tonight_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Sri Lanka Tour of England 2026"
