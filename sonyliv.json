@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:03:43 20-09-2026",
+    "last update time": "02:05:08 21-09-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090543049_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024187/1789803954768990_MetroBankOneDayCup25_final_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Metro Bank One Day Cup 2026",
-            "match_name": "Leicestershire vs Middlesex - Final - 20 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/CricLive2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789968823~acl=/*~id=33797779826930574318431566480219~hmac=bb0ca27405d5be026d79f55190df4d8192a2815c08e2407a1176dade45353177",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/CricLive2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789968823~acl=/*~id=33797779826930574318431566480219~hmac=bb0ca27405d5be026d79f55190df4d8192a2815c08e2407a1176dade45353177",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/CricLive2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789968823~acl=/*~id=33797779826930574318431566480219~hmac=bb0ca27405d5be026d79f55190df4d8192a2815c08e2407a1176dade45353177"
-        },
         {
             "event_category": "Sports",
             "isLive": false,
