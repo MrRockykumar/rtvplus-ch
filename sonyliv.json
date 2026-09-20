@@ -1,42 +1,72 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:21:56 20-09-2026",
+    "last update time": "10:05:22 20-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090541367_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024212/1789821616972902_AG26_womens_SF_pak_vs_sl_landscape_thumb.jpg",
+            "contentId": "1090541371_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Pakistan Women vs Sri Lanka Women - Semi-Final - 20 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789905115~acl=/*~id=02628021400247538327980481075656~hmac=c6e12db4bac11a18913bc3873be0f35c69d1fef2ac3df275e90d17056c6f2934",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789905115~acl=/*~id=02628021400247538327980481075656~hmac=c6e12db4bac11a18913bc3873be0f35c69d1fef2ac3df275e90d17056c6f2934",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789905115~acl=/*~id=02628021400247538327980481075656~hmac=c6e12db4bac11a18913bc3873be0f35c69d1fef2ac3df275e90d17056c6f2934"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": true,
-            "contentId": "1090542963_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024182/178977556799144_UFC_Van_vs_Pantoja_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UFC 331 - Van vs Pantoja 2",
-            "match_name": "UFC 331 - Van vs Pantoja 2 - 20 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789905115~acl=/*~id=02628021400247538327980481075656~hmac=c6e12db4bac11a18913bc3873be0f35c69d1fef2ac3df275e90d17056c6f2934",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789905115~acl=/*~id=02628021400247538327980481075656~hmac=c6e12db4bac11a18913bc3873be0f35c69d1fef2ac3df275e90d17056c6f2934",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789905115~acl=/*~id=02628021400247538327980481075656~hmac=c6e12db4bac11a18913bc3873be0f35c69d1fef2ac3df275e90d17056c6f2934"
+            "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789922120~acl=/*~id=08080293985731574590414354302217~hmac=e9837314e64063342b016208b11e5006db13688422539c792cdca32a540d4165",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789922120~acl=/*~id=08080293985731574590414354302217~hmac=e9837314e64063342b016208b11e5006db13688422539c792cdca32a540d4165",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789922120~acl=/*~id=08080293985731574590414354302217~hmac=e9837314e64063342b016208b11e5006db13688422539c792cdca32a540d4165"
         },
         {
             "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090542973,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024176/1789769649728343_AG26_womens_SF_india_vs_bangladesh_today_landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": "1090541371_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - Bangladesh vs India"
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789922120~acl=/*~id=08080293985731574590414354302217~hmac=e9837314e64063342b016208b11e5006db13688422539c792cdca32a540d4165",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789922120~acl=/*~id=08080293985731574590414354302217~hmac=e9837314e64063342b016208b11e5006db13688422539c792cdca32a540d4165",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789922120~acl=/*~id=08080293985731574590414354302217~hmac=e9837314e64063342b016208b11e5006db13688422539c792cdca32a540d4165"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541371_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789922120~acl=/*~id=08080293985731574590414354302217~hmac=e9837314e64063342b016208b11e5006db13688422539c792cdca32a540d4165",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789922120~acl=/*~id=08080293985731574590414354302217~hmac=e9837314e64063342b016208b11e5006db13688422539c792cdca32a540d4165",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789922120~acl=/*~id=08080293985731574590414354302217~hmac=e9837314e64063342b016208b11e5006db13688422539c792cdca32a540d4165"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541371_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789922120~acl=/*~id=08080293985731574590414354302217~hmac=e9837314e64063342b016208b11e5006db13688422539c792cdca32a540d4165",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789922120~acl=/*~id=08080293985731574590414354302217~hmac=e9837314e64063342b016208b11e5006db13688422539c792cdca32a540d4165",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789922120~acl=/*~id=08080293985731574590414354302217~hmac=e9837314e64063342b016208b11e5006db13688422539c792cdca32a540d4165"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090541371_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789922120~acl=/*~id=08080293985731574590414354302217~hmac=e9837314e64063342b016208b11e5006db13688422539c792cdca32a540d4165",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789922120~acl=/*~id=08080293985731574590414354302217~hmac=e9837314e64063342b016208b11e5006db13688422539c792cdca32a540d4165",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789922120~acl=/*~id=08080293985731574590414354302217~hmac=e9837314e64063342b016208b11e5006db13688422539c792cdca32a540d4165"
         },
         {
             "event_category": "Hockey",
@@ -172,6 +202,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Boxing - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Wrestling",
+            "isLive": false,
+            "contentId": 1090542856,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789670864188908_AG26_wrestling_dated_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Wrestling - 20th Asian Games Aichi-Nagoya 2026"
         }
     ]
 }
