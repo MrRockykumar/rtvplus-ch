@@ -1,90 +1,55 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:50:36 25-09-2026",
+    "last update time": "23:18:21 25-09-2026",
     "matches": [
         {
-            "event_category": "Badminton",
+            "event_category": "Tennis",
             "isLive": true,
-            "contentId": "1090541385_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024718/179029652074860_AG26_Badminton_Mens_Doubles_RD32_Satwiksairaj_Chirag_hindi_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Badminton - 25 Sep 2026 (Hindi) [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_strea2409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790364034~acl=/*~id=33509689701939043226365462837520~hmac=e4da64c9af23750d24a20bf3e58cf278e01bd8e55f02c11f080692e61bef90cf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_strea2409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790364034~acl=/*~id=33509689701939043226365462837520~hmac=e4da64c9af23750d24a20bf3e58cf278e01bd8e55f02c11f080692e61bef90cf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_strea2409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790364034~acl=/*~id=33509689701939043226365462837520~hmac=e4da64c9af23750d24a20bf3e58cf278e01bd8e55f02c11f080692e61bef90cf"
-        },
-        {
-            "event_category": "Table Tennis",
-            "isLive": true,
-            "contentId": "1090541381_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024713/1790291620908326_AG26_25Sep_Table_Tennis_Womens_Doubles_Sreeja_Syndrela_vs_Kuai_Wang_live_landscape_thumb.jpg",
+            "contentId": "1090544164_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024789/1790340619920764_Laver_cup26_day1_session2_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Table Tennis - 25 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790364034~acl=/*~id=33509689701939043226365462837520~hmac=e4da64c9af23750d24a20bf3e58cf278e01bd8e55f02c11f080692e61bef90cf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790364034~acl=/*~id=33509689701939043226365462837520~hmac=e4da64c9af23750d24a20bf3e58cf278e01bd8e55f02c11f080692e61bef90cf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790364034~acl=/*~id=33509689701939043226365462837520~hmac=e4da64c9af23750d24a20bf3e58cf278e01bd8e55f02c11f080692e61bef90cf"
+            "event_name": "Laver Cup 2026",
+            "match_name": "Day 1 - Session 2 - 25 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790401699~acl=/*~id=57881133908430723644816122376134~hmac=bc2095f9e7c768bc2b1fb47fc35f34d50fd58112135137af5ee6f4a06a084356",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790401699~acl=/*~id=57881133908430723644816122376134~hmac=bc2095f9e7c768bc2b1fb47fc35f34d50fd58112135137af5ee6f4a06a084356",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790401699~acl=/*~id=57881133908430723644816122376134~hmac=bc2095f9e7c768bc2b1fb47fc35f34d50fd58112135137af5ee6f4a06a084356"
         },
         {
-            "event_category": "Table Tennis",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": "1090541381_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024713/1790291620908326_AG26_25Sep_Table_Tennis_Womens_Doubles_Sreeja_Syndrela_vs_Kuai_Wang_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": "1090544260_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023561/1788637773558485_UNL26_Georgia_vs_Northern_Ireland_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Table Tennis - 25 Sep 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790364034~acl=/*~id=33509689701939043226365462837520~hmac=e4da64c9af23750d24a20bf3e58cf278e01bd8e55f02c11f080692e61bef90cf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790364034~acl=/*~id=33509689701939043226365462837520~hmac=e4da64c9af23750d24a20bf3e58cf278e01bd8e55f02c11f080692e61bef90cf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790364034~acl=/*~id=33509689701939043226365462837520~hmac=e4da64c9af23750d24a20bf3e58cf278e01bd8e55f02c11f080692e61bef90cf"
+            "event_name": "UEFA Nations League 2026-27",
+            "match_name": "Georgia vs Northern Ireland - 25 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790401699~acl=/*~id=57881133908430723644816122376134~hmac=bc2095f9e7c768bc2b1fb47fc35f34d50fd58112135137af5ee6f4a06a084356",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790401699~acl=/*~id=57881133908430723644816122376134~hmac=bc2095f9e7c768bc2b1fb47fc35f34d50fd58112135137af5ee6f4a06a084356",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790401699~acl=/*~id=57881133908430723644816122376134~hmac=bc2095f9e7c768bc2b1fb47fc35f34d50fd58112135137af5ee6f4a06a084356"
         },
         {
-            "event_category": "Table Tennis",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": "1090541381_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024713/1790291620908326_AG26_25Sep_Table_Tennis_Womens_Doubles_Sreeja_Syndrela_vs_Kuai_Wang_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": "1090544263_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023563/1788639748339213_UNL26_Armenia_vs_Latvia_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Table Tennis - 25 Sep 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790364034~acl=/*~id=33509689701939043226365462837520~hmac=e4da64c9af23750d24a20bf3e58cf278e01bd8e55f02c11f080692e61bef90cf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790364034~acl=/*~id=33509689701939043226365462837520~hmac=e4da64c9af23750d24a20bf3e58cf278e01bd8e55f02c11f080692e61bef90cf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790364034~acl=/*~id=33509689701939043226365462837520~hmac=e4da64c9af23750d24a20bf3e58cf278e01bd8e55f02c11f080692e61bef90cf"
-        },
-        {
-            "event_category": "Table Tennis",
-            "isLive": true,
-            "contentId": "1090541381_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024713/1790291620908326_AG26_25Sep_Table_Tennis_Womens_Doubles_Sreeja_Syndrela_vs_Kuai_Wang_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Table Tennis - 25 Sep 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790364034~acl=/*~id=33509689701939043226365462837520~hmac=e4da64c9af23750d24a20bf3e58cf278e01bd8e55f02c11f080692e61bef90cf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790364034~acl=/*~id=33509689701939043226365462837520~hmac=e4da64c9af23750d24a20bf3e58cf278e01bd8e55f02c11f080692e61bef90cf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790364034~acl=/*~id=33509689701939043226365462837520~hmac=e4da64c9af23750d24a20bf3e58cf278e01bd8e55f02c11f080692e61bef90cf"
+            "event_name": "UEFA Nations League 2026-27",
+            "match_name": "Armenia vs Latvia - 25 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790401699~acl=/*~id=57881133908430723644816122376134~hmac=bc2095f9e7c768bc2b1fb47fc35f34d50fd58112135137af5ee6f4a06a084356",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790401699~acl=/*~id=57881133908430723644816122376134~hmac=bc2095f9e7c768bc2b1fb47fc35f34d50fd58112135137af5ee6f4a06a084356",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790401699~acl=/*~id=57881133908430723644816122376134~hmac=bc2095f9e7c768bc2b1fb47fc35f34d50fd58112135137af5ee6f4a06a084356"
         },
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090543448,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024581/1790188286269439_FIFA_international_friendlies_india_vs_panama_today_rev_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Panama - India's International Friendlies"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090544292,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024700/1790280780158403_Laver_cup26_day1_today_promo_landscape_thumb.jpg",
+            "contentId": 1090544258,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024807/1790348947649514_UNL26_Turkey_vs_France_Tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Laver Cup 2026"
+            "event_name": "Upcoming - Türkiye vs France - UEFA Nations League 2026-27"
         },
         {
             "event_category": "Sports",
@@ -121,6 +86,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Sri Lanka Tour of England 2026"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090544292,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024700/1790280780158403_Laver_cup26_day1_today_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Laver Cup 2026"
         },
         {
             "event_category": "Sports",
@@ -202,6 +176,15 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Brazil - India's International Friendlies "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090543731,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024580/1790187597972785_india_vs_brazil_promo3_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India's International Friendlies "
         }
     ]
 }
