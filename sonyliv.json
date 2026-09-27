@@ -1,81 +1,98 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:13:31 27-09-2026",
+    "last update time": "15:47:33 27-09-2026",
     "matches": [
         {
-            "event_category": "Sports",
+            "event_category": "Athletics",
             "isLive": true,
             "contentId": "1090541381_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025038/1790325177849163_athletics_live_india_in_action_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 9 - 27 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790527410~acl=/*~id=83358587782465014824088587729857~hmac=3d3dbd6bc5643966d1c2a4881e603aa374237b05176c42c368ad57594c996f0e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790527410~acl=/*~id=83358587782465014824088587729857~hmac=3d3dbd6bc5643966d1c2a4881e603aa374237b05176c42c368ad57594c996f0e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790527410~acl=/*~id=83358587782465014824088587729857~hmac=3d3dbd6bc5643966d1c2a4881e603aa374237b05176c42c368ad57594c996f0e"
+            "match_name": "India In Action - Athletics - 27 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Athletics",
             "isLive": true,
             "contentId": "1090541381_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025038/1790325177849163_athletics_live_india_in_action_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 9 - 27 Sep 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790527410~acl=/*~id=83358587782465014824088587729857~hmac=3d3dbd6bc5643966d1c2a4881e603aa374237b05176c42c368ad57594c996f0e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790527410~acl=/*~id=83358587782465014824088587729857~hmac=3d3dbd6bc5643966d1c2a4881e603aa374237b05176c42c368ad57594c996f0e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790527410~acl=/*~id=83358587782465014824088587729857~hmac=3d3dbd6bc5643966d1c2a4881e603aa374237b05176c42c368ad57594c996f0e"
+            "match_name": "India In Action - Athletics - 27 Sep 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Athletics",
             "isLive": true,
             "contentId": "1090541381_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025038/1790325177849163_athletics_live_india_in_action_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 9 - 27 Sep 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790527410~acl=/*~id=83358587782465014824088587729857~hmac=3d3dbd6bc5643966d1c2a4881e603aa374237b05176c42c368ad57594c996f0e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790527410~acl=/*~id=83358587782465014824088587729857~hmac=3d3dbd6bc5643966d1c2a4881e603aa374237b05176c42c368ad57594c996f0e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790527410~acl=/*~id=83358587782465014824088587729857~hmac=3d3dbd6bc5643966d1c2a4881e603aa374237b05176c42c368ad57594c996f0e"
+            "match_name": "India In Action - Athletics - 27 Sep 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Athletics",
             "isLive": true,
             "contentId": "1090541381_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025038/1790325177849163_athletics_live_india_in_action_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 9 - 27 Sep 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790527410~acl=/*~id=83358587782465014824088587729857~hmac=3d3dbd6bc5643966d1c2a4881e603aa374237b05176c42c368ad57594c996f0e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790527410~acl=/*~id=83358587782465014824088587729857~hmac=3d3dbd6bc5643966d1c2a4881e603aa374237b05176c42c368ad57594c996f0e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790527410~acl=/*~id=83358587782465014824088587729857~hmac=3d3dbd6bc5643966d1c2a4881e603aa374237b05176c42c368ad57594c996f0e"
+            "match_name": "India In Action - Athletics - 27 Sep 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e"
         },
         {
-            "event_category": "Sports",
+            "event_category": "Athletics",
             "isLive": true,
             "contentId": "1090541381_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025038/1790325177849163_athletics_live_india_in_action_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Day 9 - 27 Sep 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790527410~acl=/*~id=83358587782465014824088587729857~hmac=3d3dbd6bc5643966d1c2a4881e603aa374237b05176c42c368ad57594c996f0e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790527410~acl=/*~id=83358587782465014824088587729857~hmac=3d3dbd6bc5643966d1c2a4881e603aa374237b05176c42c368ad57594c996f0e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790527410~acl=/*~id=83358587782465014824088587729857~hmac=3d3dbd6bc5643966d1c2a4881e603aa374237b05176c42c368ad57594c996f0e"
+            "match_name": "India In Action - Athletics - 27 Sep 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e"
         },
         {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+            "event_category": "Hockey",
+            "isLive": true,
+            "contentId": "1090541379_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024990/1790465182173438_AG26_27Sep_Hockey_Womens_India_vs_Singapore_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026"
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "India vs Singapore - Women - Hockey - 27 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DX1_22609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DX1_22609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DX1_22609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090544843_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022736852512_ENGvsSL26_3odi_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Sri Lanka Tour of England 2026",
+            "match_name": "3rd ODI - 27 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/criclive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/criclive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/criclive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790547450~acl=/*~id=99422770937517353175135751514381~hmac=07fed6b3f29e78d720f78b81ae1be352b03dd2331eb7eaa40ae0df1e85178f0e"
         },
         {
             "event_category": "Sports",
@@ -114,24 +131,6 @@
             "event_name": "Upcoming - India Tour of New Zealand "
         },
         {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090541822,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023836/1789134369325903_ENGvsSL26_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Sri Lanka Tour of England 2026"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": false,
-            "contentId": 1090544292,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024895/1790409000430294_Laver_cup26_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Laver Cup 2026"
-        },
-        {
             "event_category": "Sports",
             "isLive": false,
             "contentId": 1090539555,
@@ -139,6 +138,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090540014,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Cricket",
@@ -157,15 +165,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - 20th Asian Games Aichi-Nagoya 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090541319,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835793245835_AWC_Promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Cricket",
@@ -211,6 +210,15 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Brazil - India's International Friendlies "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090543731,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024580/1790187597972785_india_vs_brazil_promo3_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India's International Friendlies "
         }
     ]
 }
