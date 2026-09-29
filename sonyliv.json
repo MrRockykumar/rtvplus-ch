@@ -1,59 +1,46 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:36:59 29-09-2026",
+    "last update time": "20:11:34 29-09-2026",
     "matches": [
         {
-            "event_category": "Volleyball",
+            "event_category": "Sports",
             "isLive": true,
             "contentId": "1090541381_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025232/1790634675002576_AG26_29Sep_Volleyball_Mens_Qatar_vs_India_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Qatar vs India - Volleyball - 29 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790712416~acl=/*~id=69419878917965407143634762665957~hmac=42d13185913cc6fe1e44797018b81a95d2a7fe0a5b095b959285a65a928164e8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790712416~acl=/*~id=69419878917965407143634762665957~hmac=42d13185913cc6fe1e44797018b81a95d2a7fe0a5b095b959285a65a928164e8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790712416~acl=/*~id=69419878917965407143634762665957~hmac=42d13185913cc6fe1e44797018b81a95d2a7fe0a5b095b959285a65a928164e8"
+            "match_name": "Day 10 - 29 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790736093~acl=/*~id=90977471001036823131898078115541~hmac=3720f6ed344e8b8c72fe96527983718ec39178f4716542e293e07365d775de7a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790736093~acl=/*~id=90977471001036823131898078115541~hmac=3720f6ed344e8b8c72fe96527983718ec39178f4716542e293e07365d775de7a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790736093~acl=/*~id=90977471001036823131898078115541~hmac=3720f6ed344e8b8c72fe96527983718ec39178f4716542e293e07365d775de7a"
         },
         {
-            "event_category": "Volleyball",
+            "event_category": "Sports",
             "isLive": true,
             "contentId": "1090541381_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025232/1790634675002576_AG26_29Sep_Volleyball_Mens_Qatar_vs_India_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Qatar vs India - Volleyball - 29 Sep 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790712416~acl=/*~id=69419878917965407143634762665957~hmac=42d13185913cc6fe1e44797018b81a95d2a7fe0a5b095b959285a65a928164e8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790712416~acl=/*~id=69419878917965407143634762665957~hmac=42d13185913cc6fe1e44797018b81a95d2a7fe0a5b095b959285a65a928164e8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790712416~acl=/*~id=69419878917965407143634762665957~hmac=42d13185913cc6fe1e44797018b81a95d2a7fe0a5b095b959285a65a928164e8"
+            "match_name": "Day 10 - 29 Sep 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790736093~acl=/*~id=90977471001036823131898078115541~hmac=3720f6ed344e8b8c72fe96527983718ec39178f4716542e293e07365d775de7a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790736093~acl=/*~id=90977471001036823131898078115541~hmac=3720f6ed344e8b8c72fe96527983718ec39178f4716542e293e07365d775de7a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790736093~acl=/*~id=90977471001036823131898078115541~hmac=3720f6ed344e8b8c72fe96527983718ec39178f4716542e293e07365d775de7a"
         },
         {
-            "event_category": "Volleyball",
-            "isLive": true,
-            "contentId": "1090541381_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025232/1790634675002576_AG26_29Sep_Volleyball_Mens_Qatar_vs_India_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Qatar vs India - Volleyball - 29 Sep 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790712416~acl=/*~id=69419878917965407143634762665957~hmac=42d13185913cc6fe1e44797018b81a95d2a7fe0a5b095b959285a65a928164e8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790712416~acl=/*~id=69419878917965407143634762665957~hmac=42d13185913cc6fe1e44797018b81a95d2a7fe0a5b095b959285a65a928164e8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790712416~acl=/*~id=69419878917965407143634762665957~hmac=42d13185913cc6fe1e44797018b81a95d2a7fe0a5b095b959285a65a928164e8"
-        },
-        {
-            "event_category": "Volleyball",
+            "event_category": "Sports",
             "isLive": true,
             "contentId": "1090541381_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025232/1790634675002576_AG26_29Sep_Volleyball_Mens_Qatar_vs_India_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Qatar vs India - Volleyball - 29 Sep 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790712416~acl=/*~id=69419878917965407143634762665957~hmac=42d13185913cc6fe1e44797018b81a95d2a7fe0a5b095b959285a65a928164e8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790712416~acl=/*~id=69419878917965407143634762665957~hmac=42d13185913cc6fe1e44797018b81a95d2a7fe0a5b095b959285a65a928164e8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790712416~acl=/*~id=69419878917965407143634762665957~hmac=42d13185913cc6fe1e44797018b81a95d2a7fe0a5b095b959285a65a928164e8"
+            "match_name": "Day 10 - 29 Sep 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790736093~acl=/*~id=90977471001036823131898078115541~hmac=3720f6ed344e8b8c72fe96527983718ec39178f4716542e293e07365d775de7a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790736093~acl=/*~id=90977471001036823131898078115541~hmac=3720f6ed344e8b8c72fe96527983718ec39178f4716542e293e07365d775de7a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790736093~acl=/*~id=90977471001036823131898078115541~hmac=3720f6ed344e8b8c72fe96527983718ec39178f4716542e293e07365d775de7a"
         },
         {
             "event_category": "Football",
@@ -63,6 +50,24 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 2 - UEFA Nations League 2026-27"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090545635,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025246/1790659986855403_AG_INDvsSL_SF_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Sri Lanka - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Hockey",
+            "isLive": false,
+            "contentId": 1090542858,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025311/1790692394378317_ag_hockey_indvspak_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Hockey - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Football",
@@ -86,7 +91,7 @@
             "event_category": "Sports",
             "isLive": false,
             "contentId": 1090539555,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025246/1790659986855403_AG_INDvsSL_SF_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810621694132_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
