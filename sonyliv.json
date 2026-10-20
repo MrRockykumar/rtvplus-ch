@@ -1,20 +1,33 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:18:57 20-10-2026",
+    "last update time": "22:12:04 20-10-2026",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090549194_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025833/1791097802834995_UYL26_PSG_vs_Barcelona_live_landscape_thumb.jpg",
+            "contentId": "1090549200_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125022899319_UCL2627_MD3_Sabah_vs_Dortmund_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "UEFA Youth League 2026-27",
-            "match_name": "PSG vs Barcelona - 20 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792540136~acl=/*~id=91002509711183372773413438963771~hmac=d5277be7027ca8e5410efca822f5a772e5a7d397a92f1d7c9edddb80e01c13e2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792540136~acl=/*~id=91002509711183372773413438963771~hmac=d5277be7027ca8e5410efca822f5a772e5a7d397a92f1d7c9edddb80e01c13e2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792540136~acl=/*~id=91002509711183372773413438963771~hmac=d5277be7027ca8e5410efca822f5a772e5a7d397a92f1d7c9edddb80e01c13e2"
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Sabah vs Dortmund - 20 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792557723~acl=/*~id=47571180604509107542587654456803~hmac=a11e780e0640e29d3952a8c11471290afc54c0bf49e207ff68ed5d9e4c8626c4",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792557723~acl=/*~id=47571180604509107542587654456803~hmac=a11e780e0640e29d3952a8c11471290afc54c0bf49e207ff68ed5d9e4c8626c4",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792557723~acl=/*~id=47571180604509107542587654456803~hmac=a11e780e0640e29d3952a8c11471290afc54c0bf49e207ff68ed5d9e4c8626c4"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090549199_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179124692857319_UCL2627_MD3_Fenerbahce_vs_Slavia_Praha_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Fenerbahçe vs Slavia Praha - MD 3 - 20 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792557723~acl=/*~id=47571180604509107542587654456803~hmac=a11e780e0640e29d3952a8c11471290afc54c0bf49e207ff68ed5d9e4c8626c4",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792557723~acl=/*~id=47571180604509107542587654456803~hmac=a11e780e0640e29d3952a8c11471290afc54c0bf49e207ff68ed5d9e4c8626c4",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792557723~acl=/*~id=47571180604509107542587654456803~hmac=a11e780e0640e29d3952a8c11471290afc54c0bf49e207ff68ed5d9e4c8626c4"
         },
         {
             "event_category": "Cricket",
@@ -83,7 +96,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090548932,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026701/1792409825254715_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026802/1792507041786654_NZvsIND_t20i_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026"
@@ -110,7 +123,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090548747,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026701/1792409825254715_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026802/1792507025103654_NZvsIND_5t20i_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026"
