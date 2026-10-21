@@ -1,59 +1,33 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:34:39 21-10-2026",
+    "last update time": "23:38:22 21-10-2026",
     "matches": [
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": "1090549320_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417732166732_STCL_Delhi-Leaders-vs-Gujarat-Royals_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": "1090549217_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125207661519_UCL2627_MD3_Como_vs_Man_United_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Salute Tiranga Cricket League (STCL) 2026",
-            "match_name": "Delhi Leaders vs Gujarat Royals - 21 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792631077~acl=/*~id=51812382755503051501517310726448~hmac=718b8df93df4af85b4a0566a15eac9257321ebdc0381f33e9a7263d0fae082c8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792631077~acl=/*~id=51812382755503051501517310726448~hmac=718b8df93df4af85b4a0566a15eac9257321ebdc0381f33e9a7263d0fae082c8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792631077~acl=/*~id=51812382755503051501517310726448~hmac=718b8df93df4af85b4a0566a15eac9257321ebdc0381f33e9a7263d0fae082c8"
-        },
-        {
-            "event_category": "Volleyball",
-            "isLive": true,
-            "contentId": "1090549331_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234691409325_VCL26_SF_Haryana_Hurricanes_vs_Emperia_Marathas_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Volleyball Champions League 2026",
-            "match_name": "Haryana Hurricanes vs Emperia Marathas - Semi Final 2 - 21 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8947/cricodi_2110-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792631077~acl=/*~id=51812382755503051501517310726448~hmac=718b8df93df4af85b4a0566a15eac9257321ebdc0381f33e9a7263d0fae082c8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8947/cricodi_2110-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792631077~acl=/*~id=51812382755503051501517310726448~hmac=718b8df93df4af85b4a0566a15eac9257321ebdc0381f33e9a7263d0fae082c8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8947/cricodi_2110-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792631077~acl=/*~id=51812382755503051501517310726448~hmac=718b8df93df4af85b4a0566a15eac9257321ebdc0381f33e9a7263d0fae082c8"
-        },
-        {
-            "event_category": "Volleyball",
-            "isLive": true,
-            "contentId": "1090549331_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234691409325_VCL26_SF_Haryana_Hurricanes_vs_Emperia_Marathas_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Volleyball Champions League 2026",
-            "match_name": "Haryana Hurricanes vs Emperia Marathas - Semi Final 2 - 21 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2119921/cricodi_2110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792631077~acl=/*~id=51812382755503051501517310726448~hmac=718b8df93df4af85b4a0566a15eac9257321ebdc0381f33e9a7263d0fae082c8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2119921/cricodi_2110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792631077~acl=/*~id=51812382755503051501517310726448~hmac=718b8df93df4af85b4a0566a15eac9257321ebdc0381f33e9a7263d0fae082c8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2119921/cricodi_2110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792631077~acl=/*~id=51812382755503051501517310726448~hmac=718b8df93df4af85b4a0566a15eac9257321ebdc0381f33e9a7263d0fae082c8"
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Como vs Man United - 21 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792649302~acl=/*~id=29476100686347588265073945188643~hmac=6ebf8134d4abdf06bf0bffcabf69b018ce34c31f30ad68b67017ae8c7309dbd8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792649302~acl=/*~id=29476100686347588265073945188643~hmac=6ebf8134d4abdf06bf0bffcabf69b018ce34c31f30ad68b67017ae8c7309dbd8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792649302~acl=/*~id=29476100686347588265073945188643~hmac=6ebf8134d4abdf06bf0bffcabf69b018ce34c31f30ad68b67017ae8c7309dbd8"
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090549301_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025834/1791099270661478_UYL26_LOSC_Lille_vs_Galatasaray_live_landscape_thumb.jpg",
+            "contentId": "1090549216_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125185673619_UCL2627_MD3_Lille_vs_Galatasaray_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "UEFA Youth League 2026-27",
-            "match_name": "LOSC Lille vs Galatasaray - MD3 - 21 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792631077~acl=/*~id=51812382755503051501517310726448~hmac=718b8df93df4af85b4a0566a15eac9257321ebdc0381f33e9a7263d0fae082c8",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792631077~acl=/*~id=51812382755503051501517310726448~hmac=718b8df93df4af85b4a0566a15eac9257321ebdc0381f33e9a7263d0fae082c8",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792631077~acl=/*~id=51812382755503051501517310726448~hmac=718b8df93df4af85b4a0566a15eac9257321ebdc0381f33e9a7263d0fae082c8"
+            "event_name": "UEFA Champions League 2026-27",
+            "match_name": "Lille vs Galatasaray - 21 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792649302~acl=/*~id=29476100686347588265073945188643~hmac=6ebf8134d4abdf06bf0bffcabf69b018ce34c31f30ad68b67017ae8c7309dbd8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792649302~acl=/*~id=29476100686347588265073945188643~hmac=6ebf8134d4abdf06bf0bffcabf69b018ce34c31f30ad68b67017ae8c7309dbd8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792649302~acl=/*~id=29476100686347588265073945188643~hmac=6ebf8134d4abdf06bf0bffcabf69b018ce34c31f30ad68b67017ae8c7309dbd8"
         },
         {
             "event_category": "Cricket",
@@ -134,6 +108,24 @@
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026604/1792259527608635_ind_vs_nz_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "TAM",
+            "event_name": "Upcoming - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090549555,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026879/1792581296779860_Promo-Thumbs_ashwin_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090549556,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026879/1792581347905860_Promo-Thumbs_NZ_vs_IND_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026"
         }
     ]
