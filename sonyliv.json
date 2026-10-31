@@ -1,20 +1,55 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:47:59 31-10-2026",
+    "last update time": "21:44:13 31-10-2026",
     "matches": [
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": "1090551540_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027792/1793356107617263_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": "1090551190_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "India A Tour of New Zealand",
-            "match_name": "2nd Unofficial Test - Day 1 - 31 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793467079~acl=/*~id=52483983738423644680922482155064~hmac=a8ab9cfaa88d1d6b247e3905f5a37f101095d9784dd7d8fbc17837dac415bbcb",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793467079~acl=/*~id=52483983738423644680922482155064~hmac=a8ab9cfaa88d1d6b247e3905f5a37f101095d9784dd7d8fbc17837dac415bbcb",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793467079~acl=/*~id=52483983738423644680922482155064~hmac=a8ab9cfaa88d1d6b247e3905f5a37f101095d9784dd7d8fbc17837dac415bbcb"
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793506453~acl=/*~id=40127047820286543999166286099281~hmac=2261a384da4ac69c810ef61b8f5d0152c54f71bed0af26093539c6aa3ae350c7",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793506453~acl=/*~id=40127047820286543999166286099281~hmac=2261a384da4ac69c810ef61b8f5d0152c54f71bed0af26093539c6aa3ae350c7",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793506453~acl=/*~id=40127047820286543999166286099281~hmac=2261a384da4ac69c810ef61b8f5d0152c54f71bed0af26093539c6aa3ae350c7"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090551190_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793506453~acl=/*~id=40127047820286543999166286099281~hmac=2261a384da4ac69c810ef61b8f5d0152c54f71bed0af26093539c6aa3ae350c7",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793506453~acl=/*~id=40127047820286543999166286099281~hmac=2261a384da4ac69c810ef61b8f5d0152c54f71bed0af26093539c6aa3ae350c7",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793506453~acl=/*~id=40127047820286543999166286099281~hmac=2261a384da4ac69c810ef61b8f5d0152c54f71bed0af26093539c6aa3ae350c7"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090551190_BEN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792355587210172_ISL26_MohunBaganSG_vs_punjabFC_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "BEN",
+            "event_name": "MG Indian Super League 2026-27",
+            "match_name": "Mohun Bagan Super Giant vs Punjab FC - 31 Oct 2026 [BEN]",
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120308/footlive3110/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793506453~acl=/*~id=40127047820286543999166286099281~hmac=2261a384da4ac69c810ef61b8f5d0152c54f71bed0af26093539c6aa3ae350c7",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120308/footlive3110/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793506453~acl=/*~id=40127047820286543999166286099281~hmac=2261a384da4ac69c810ef61b8f5d0152c54f71bed0af26093539c6aa3ae350c7",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120308/footlive3110/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793506453~acl=/*~id=40127047820286543999166286099281~hmac=2261a384da4ac69c810ef61b8f5d0152c54f71bed0af26093539c6aa3ae350c7"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090547508,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793121940468973_ISL_Mumbai_City_FC_vs_Sporting_Club_Delhi_promo_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - MG Indian Super League 2026-27"
         },
         {
             "event_category": "Cricket",
@@ -24,24 +59,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027451/1793083109427950_ISL_Chennaiyin-FC-vs-Kerala-Blasters-FC_Promo_Today_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - MG Indian Super League 2026-27"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090551489,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027867/1793371291590937_NZvsIND26_5th_T20I_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 5th T20I - India Tour Of New Zealand 2026"
         },
         {
             "event_category": "Football",
@@ -60,6 +77,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Atletico Madrid vs Bayern Munich - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551489,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027867/1793371291590937_NZvsIND26_5th_T20I_dated_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 5th T20I - India Tour Of New Zealand 2026"
         },
         {
             "event_category": "Football",
