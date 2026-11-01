@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:19:55 01-11-2026",
+    "last update time": "23:13:09 01-11-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090551626_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "Mumbai City FC vs Sporting Club Delhi - 1 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793576994~acl=/*~id=22743926443264058902545060212005~hmac=e1fa086adeb5de197963f721b8639ac5361cbf3fb6d65dd8b9d45035fd6cccb6",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793576994~acl=/*~id=22743926443264058902545060212005~hmac=e1fa086adeb5de197963f721b8639ac5361cbf3fb6d65dd8b9d45035fd6cccb6",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793576994~acl=/*~id=22743926443264058902545060212005~hmac=e1fa086adeb5de197963f721b8639ac5361cbf3fb6d65dd8b9d45035fd6cccb6"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090551626_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "Mumbai City FC vs Sporting Club Delhi - 1 Nov 2026 [HIN]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793576994~acl=/*~id=22743926443264058902545060212005~hmac=e1fa086adeb5de197963f721b8639ac5361cbf3fb6d65dd8b9d45035fd6cccb6",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793576994~acl=/*~id=22743926443264058902545060212005~hmac=e1fa086adeb5de197963f721b8639ac5361cbf3fb6d65dd8b9d45035fd6cccb6",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793576994~acl=/*~id=22743926443264058902545060212005~hmac=e1fa086adeb5de197963f721b8639ac5361cbf3fb6d65dd8b9d45035fd6cccb6"
-        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -78,7 +52,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793126304326973_ISL_Inter_Kashi_vs_FC_Goa_promo_landscape_thumb_tonight.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793126835273973_ISL_Mohun_Bagan_SG_vs_Odisha_FC_promo_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - MG Indian Super League 2026-27"
