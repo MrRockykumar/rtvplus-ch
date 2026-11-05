@@ -1,52 +1,39 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:09:58 05-11-2026",
+    "last update time": "03:14:14 06-11-2026",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090552592_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
+            "contentId": "1090551930_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792959760705155_UEL26_MD4_Leverkusen_vs_Olympiquede_Marseille_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "Mohun Bagan Super Giant vs OFC - 5 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094590/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793936398~acl=/*~id=66059935818416234409179099082051~hmac=63217bb9cced351879d7eb1ef1926bb5f8f710b0206a0542f68a1e3baecd6d63",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094590/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793936398~acl=/*~id=66059935818416234409179099082051~hmac=63217bb9cced351879d7eb1ef1926bb5f8f710b0206a0542f68a1e3baecd6d63",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094590/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793936398~acl=/*~id=66059935818416234409179099082051~hmac=63217bb9cced351879d7eb1ef1926bb5f8f710b0206a0542f68a1e3baecd6d63"
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Bayer 04 Leverkusen vs Olympique de Marseille - 6 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793958253~acl=/*~id=15854323834881440686454140457890~hmac=46b1806433ac0038c9b5474e8acef99cfef1c524d216c88750e37c22a3250b8a",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793958253~acl=/*~id=15854323834881440686454140457890~hmac=46b1806433ac0038c9b5474e8acef99cfef1c524d216c88750e37c22a3250b8a",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793958253~acl=/*~id=15854323834881440686454140457890~hmac=46b1806433ac0038c9b5474e8acef99cfef1c524d216c88750e37c22a3250b8a"
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090552592_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "Mohun Bagan Super Giant vs OFC - 5 Nov 2026 [HIN]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105079/Footlive0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793936398~acl=/*~id=66059935818416234409179099082051~hmac=63217bb9cced351879d7eb1ef1926bb5f8f710b0206a0542f68a1e3baecd6d63",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105079/Footlive0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793936398~acl=/*~id=66059935818416234409179099082051~hmac=63217bb9cced351879d7eb1ef1926bb5f8f710b0206a0542f68a1e3baecd6d63",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105079/Footlive0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793936398~acl=/*~id=66059935818416234409179099082051~hmac=63217bb9cced351879d7eb1ef1926bb5f8f710b0206a0542f68a1e3baecd6d63"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090552592_BEN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "BEN",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "Mohun Bagan Super Giant vs OFC - 5 Nov 2026 [BEN]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105080/Footlive0511/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793936398~acl=/*~id=66059935818416234409179099082051~hmac=63217bb9cced351879d7eb1ef1926bb5f8f710b0206a0542f68a1e3baecd6d63",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105080/Footlive0511/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793936398~acl=/*~id=66059935818416234409179099082051~hmac=63217bb9cced351879d7eb1ef1926bb5f8f710b0206a0542f68a1e3baecd6d63",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105080/Footlive0511/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793936398~acl=/*~id=66059935818416234409179099082051~hmac=63217bb9cced351879d7eb1ef1926bb5f8f710b0206a0542f68a1e3baecd6d63"
+            "contentId": "1090551932_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792960301043155_UEL26_MD4_AZ_Alkmaar_vs_Juventus_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "AZ Alkmaar vs Juventus - 6 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793958253~acl=/*~id=15854323834881440686454140457890~hmac=46b1806433ac0038c9b5474e8acef99cfef1c524d216c88750e37c22a3250b8a",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793958253~acl=/*~id=15854323834881440686454140457890~hmac=46b1806433ac0038c9b5474e8acef99cfef1c524d216c88750e37c22a3250b8a",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793958253~acl=/*~id=15854323834881440686454140457890~hmac=46b1806433ac0038c9b5474e8acef99cfef1c524d216c88750e37c22a3250b8a"
         },
         {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090552324,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793773960156876_Asia_Cup_U19_IND-vs-NEP_Promo_DDT_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793773973505876_Asia_Cup_U19_IND-vs-NEP_Promo_Today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Nepal - ACC Men's U19 Asia Cup 2026"
@@ -59,15 +46,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 2nd ODI - India Tour Of New Zealand 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090552149,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028297/1793796343913833_UEL25_26_AC-Milan-vs-Ferencvarosi-TC_promo_Tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 4 - UEFA Europa League 2026-27"
         },
         {
             "event_category": "Football",
