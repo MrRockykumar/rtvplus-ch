@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:48:46 09-11-2026",
+    "last update time": "07:20:47 09-11-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "India A Tour of New Zealand",
             "match_name": "3rd Unofficial Test - Day 3 - 9 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794219526~acl=/*~id=61601004706940319897625443833762~hmac=129705417e3e2ce61c65cda9da486982af6ecb1f217b2bd5c2d039fcfe96e111",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794219526~acl=/*~id=61601004706940319897625443833762~hmac=129705417e3e2ce61c65cda9da486982af6ecb1f217b2bd5c2d039fcfe96e111",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794219526~acl=/*~id=61601004706940319897625443833762~hmac=129705417e3e2ce61c65cda9da486982af6ecb1f217b2bd5c2d039fcfe96e111"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794232247~acl=/*~id=20122149479069488190386445307078~hmac=cda82312d39b94729deac3857b94067c5a09b36a806cfaa7c9315d456153cd43",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794232247~acl=/*~id=20122149479069488190386445307078~hmac=cda82312d39b94729deac3857b94067c5a09b36a806cfaa7c9315d456153cd43",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794232247~acl=/*~id=20122149479069488190386445307078~hmac=cda82312d39b94729deac3857b94067c5a09b36a806cfaa7c9315d456153cd43"
         },
         {
             "event_category": "Cricket",
