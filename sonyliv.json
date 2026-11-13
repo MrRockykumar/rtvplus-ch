@@ -1,43 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:58:36 12-11-2026",
+    "last update time": "05:21:43 13-11-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090553566_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027618/1793185950770769_UNL26_MD5_Turkiye-vs-Belgium_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Nations League 2026-27",
-            "match_name": "Türkiye vs Belgium - 12 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794551315~acl=/*~id=52950436062954376958146646344210~hmac=0b3552c86a12a2f0a20bc765b614696a34b452068982d3f2601a31ee0910350b",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794551315~acl=/*~id=52950436062954376958146646344210~hmac=0b3552c86a12a2f0a20bc765b614696a34b452068982d3f2601a31ee0910350b",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794551315~acl=/*~id=52950436062954376958146646344210~hmac=0b3552c86a12a2f0a20bc765b614696a34b452068982d3f2601a31ee0910350b"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090553571_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793254611850508_UNL26_MD5_Armenia-vs-Cyprus_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Nations League 2026-27",
-            "match_name": "Armenia vs Cyprus - 12 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794551315~acl=/*~id=52950436062954376958146646344210~hmac=0b3552c86a12a2f0a20bc765b614696a34b452068982d3f2601a31ee0910350b",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794551315~acl=/*~id=52950436062954376958146646344210~hmac=0b3552c86a12a2f0a20bc765b614696a34b452068982d3f2601a31ee0910350b",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794551315~acl=/*~id=52950436062954376958146646344210~hmac=0b3552c86a12a2f0a20bc765b614696a34b452068982d3f2601a31ee0910350b"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090553648,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794310283638247_UNL26_Italy_vs_France_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Italy vs France - UEFA Nations League 2026-27"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -51,19 +16,10 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090553427,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028665/1794208041683604_NZ_vs_IND_4thODI_Promo_DDT_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028665/1794208056744604_NZ_vs_IND_4thODI_Promo_Today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 4th ODI - India Tour Of New Zealand 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090553650,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794309212414246_UNL26_england_vs_croatia_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 5 - UEFA Nations League 2026-27"
         },
         {
             "event_category": "Cricket",
@@ -73,6 +29,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - DP World Asia Cup Rising Stars Men's 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090553650,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794309212414246_UNL26_england_vs_croatia_tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 5 - UEFA Nations League 2026-27"
         },
         {
             "event_category": "Fight Sports",
